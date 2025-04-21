@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/College-Project/static/css/main.defa18e9.css",
+    "main.js": "/College-Project/static/js/main.739860f6.js",
+    "static/media/boxicons.svg": "/College-Project/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/College-Project/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/College-Project/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/College-Project/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/College-Project/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/College-Project/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.png": "/College-Project/static/media/logo.11e067ef227d077f053f.png",
+    "index.html": "/College-Project/index.html",
+    "main.defa18e9.css.map": "/College-Project/static/css/main.defa18e9.css.map",
+    "main.739860f6.js.map": "/College-Project/static/js/main.739860f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defa18e9.css",
+    "static/js/main.739860f6.js"
+  ]
+}
